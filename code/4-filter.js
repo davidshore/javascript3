@@ -8,4 +8,4 @@ const ages = [12, 18, 25, 8, 30, 16];
 // Task 2: Write a function called `getAdultAges` that takes an array of ages as an argument
 // and returns a new array with only the adult ages.
 
-// Task 3: Use the `getAdultAges` function to create a new array called `adultAges`.
+// Task 3: Use the `getAdultAges` function to create a new array called `adultAges2`.
